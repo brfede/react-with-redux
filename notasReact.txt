@@ -1,0 +1,6 @@
+Para crear una aplicación con react debemos instalar:
+
+    1. Node
+    2. create-react-app (npm install -g create-react-app)
+
+Luego debemos ejecutar create-react-app {nombre de la app que queremos crear}
